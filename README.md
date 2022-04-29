@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniloalalmeida-epiousion
-- 🌱 I’m currently learning ...
+- 🌱 I work at Epiousion IT
 - 📫 Reach out to me through danilo.almeida@epiousion.com.br
 
 <!---
